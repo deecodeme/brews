@@ -1,0 +1,3 @@
+[submodule "taps/homebrew-helloscript"]
+	path = taps/homebrew-helloscript
+	url = https://github.com/deecodeme/homebrew-helloscript
